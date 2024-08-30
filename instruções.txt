@@ -1,0 +1,4 @@
+As respostas para o teste estão em Javascript
+Para executar os codigos é necessario utilizar o node e fazer a instalação do prompt para entrada de dados.
+Para instalar o prompt utilize o comando npm install prompt-sync.
+apos o prompt instalado, para executar os codigos, digite no terminal do VScode node nome_do_arquivo.js exemplo> node 1.js.
